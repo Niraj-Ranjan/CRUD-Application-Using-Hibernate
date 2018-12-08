@@ -1,7 +1,7 @@
 # CRUD-Application-Using-Servlet-JSP-Hibernate
 
 #Maven Dependency File
-https://mvnrepository.com
+	https://mvnrepository.com
 
 
 #Database File
