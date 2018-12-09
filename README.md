@@ -1,10 +1,10 @@
-# CRUD-Application-Using-Servlet-JSP-Hibernate
+# CRUD-Application-Using-Hibernate
 
-#Maven Dependency File
+# Maven Dependency File
 	https://mvnrepository.com
 
 
-#Database File
+# Database File
 
 		CREATE TABLE IF NOT EXISTS student (
 		  student_id int(100) NOT NULL AUTO_INCREMENT,
