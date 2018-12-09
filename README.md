@@ -16,6 +16,6 @@
 
 #Kindly Change Hibernate Configuration File
 
-    		<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/databasename</property>
-		<property name="hibernate.connection.username">root</property>
-		<property name="hibernate.connection.password">passoword</property>
+	<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/databasename</property>
+	<property name="hibernate.connection.username">root</property>
+	<property name="hibernate.connection.password">passoword</property>
